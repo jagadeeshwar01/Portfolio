@@ -1,0 +1,115 @@
+h1{
+    
+    font-size: 5.625rem;
+    margin: 50px auto 0   auto;
+    font-family: 'Sacramento',cursive;
+    
+}
+
+h2{
+    
+    font-weight: normal;
+    font-size: 2.5rem;
+    font-family: 'Montserrat',sans-serif;
+}
+body{
+    font-size: 100%;
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+.top-container{
+    background-color: #FEFDCA;
+    padding-top: 100px;
+    position: relative;
+   
+}
+.middle-container{
+    background-color: #FEFDCA;
+}
+.profile{
+    background-color: #E0F9B5;
+}
+
+.btech{
+    margin-bottom: 0px;
+    padding-bottom: 16px;
+    
+}
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: absolute;
+    top: 25px;
+    right:500px;
+    
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.design{
+    float: right;
+   width: 25%;
+   height: 25%; 
+   margin-left: 30px;
+}
+.code-img{
+    float: left;
+    width: 25%;
+    height: 25%;
+    margin-right: 30px;
+}
+.skills{
+    background-color: #FEFDCA;
+    padding-top: 20px;
+}
+h2{
+    margin-top:0px;
+}
+.contact-me{
+    padding-top: 20px;
+    background-color: #E0F9B5;
+
+}
+.bottom-container{
+    padding-top: 40px;
+    background-color: #E0F9B5;
+}
+
+.footer-link{
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.btn {
+    background: #E0F9B5;
+    background-image: -webkit-linear-gradient(top, #E0F9B5, #E0F9B5);
+    background-image: -moz-linear-gradient(top, #E0F9B5, #E0F9B5);
+    background-image: -ms-linear-gradient(top, #E0F9B5, #E0F9B5);
+    background-image: -o-linear-gradient(top, #E0F9B5, #E0F9B5);
+    background-image: linear-gradient(to bottom, #E0F9B5, #E0F9B5);
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #0a070a;
+    font-size: 31px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #FEFDCA;
+    text-decoration: none;
+  }
+  .name{
+    margin-bottom: 0px;
+    margin-top: 0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #E0F9B5;
+  }
